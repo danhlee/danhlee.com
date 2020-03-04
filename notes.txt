@@ -1,0 +1,25 @@
+/ (home)
+  - about me
+  - certifications
+  - skills
+  - development activity
+  
+/employment
+  /Job_1
+  /Job_2
+
+/resume [LINK] - PDF & downloadable
+
+/articles
+  *medium feed?
+
+/software or /apps
+  /app_1_description_page
+  /app_2_description_page
+
+/profiles [LINKS]
+  github
+  linkedin
+  twitter
+  twitch
+  youtube
